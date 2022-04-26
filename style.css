@@ -257,10 +257,14 @@ h2 {
   height: 30px;
 }
 
+#social-links {
+  padding: 0;
+}
+
 #social-links li {
   height: 20px;
   display: inline-block;
-  margin: 0 5px;
+  margin: 0 5px;    
 }
 
 .box {
